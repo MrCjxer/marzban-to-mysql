@@ -1,4 +1,4 @@
-### [توضیحات فارسی ](https://github.com/mobinalipour/marzban-to-mysql/blob/main/README-FA.md)
+### [توضیحات فارسی ](https://github.com/MrCjxer/marzban-to-mysql/blob/main/README-FA.md)
 
 ### version 2.5.3 changes
 - improve codes and performance
@@ -33,7 +33,7 @@ Also, this script transfers data from your old database(sqlite3) to the new data
 Just run this command on the server that marzban have been installed:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/mobinalipour/marzban-to-mysql/main/marzban-to-mysql.sh)
+bash <(curl -s https://raw.githubusercontent.com/MrCjxer/marzban-to-mysql/main/marzban-to-mysql.sh)
 ```
     
 ## Notes
